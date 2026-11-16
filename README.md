@@ -1,1 +1,0 @@
-Transient simulation of air flowing around a pole.
